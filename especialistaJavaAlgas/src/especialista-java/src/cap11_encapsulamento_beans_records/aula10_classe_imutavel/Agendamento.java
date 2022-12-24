@@ -1,0 +1,33 @@
+package cap11_encapsulamento_beans_records.aula10_classe_imutavel;
+
+public class Agendamento {
+
+    private Horario horario;
+    private String descricao;
+
+    public Agendamento(Horario horario, String descricao) {
+        this.horario = horario;
+        this.descricao = descricao;
+    }
+
+    public Horario getHorario() {
+        return horario;
+    }
+
+    public void setHorario(Horario horario) {
+        this.horario = horario;
+    }
+
+    public String getDescricao() {
+        return descricao;
+    }
+
+    public void setDescricao(String descricao) {
+        this.descricao = descricao;
+    }
+
+    public String getHorarioFormatado() {
+        return horario.formatar();
+    }
+
+}

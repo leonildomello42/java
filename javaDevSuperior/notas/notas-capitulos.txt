@@ -1,0 +1,58 @@
+
+#Cap0 - INTRODUÇÃO:
+
+-- Programação Orientada a Objetos
+-- Estruturas de Dados;
+-- Bancos de Dados;
+-- Padrões de Projeto;
+-- modulos em Java;
+
+#Cap1 - CONCEITOS:
+
+-- Conceitos O.O
+
+#Cap2 - INTRODUÇÃO LINGUAGEM JAVA:
+
+-- Linguagem compilada x interpreta x hibrida
+
+-- Java 8, Java 11...; 
+
+-- Java ME x Java SE x Java EE
+
+-- Modulos
+
+#Cap6 - ESTRUTURA REPETICAO:
+
+-- Debug
+
+#Cap7 - TOPICOS BASICOS
+
+-- Java DOC / lib @Slf4j log.info();
+
+#Cap9 - INTRODUCAO O.O
+
+-- Diagrama UML (Diagrama de classes)
+-- Toda classe em Java eh subclasse sa classe Object
+-- Membros estaticos
+-- Palavra this
+-- javaBeans
+-- Modificadores de acesso
+
+#Cap10 - COMP. MEMORIA, ARRAY, LISTAS
+
+-- Garbage Collector
+-- Lists / COLLECTIONS
+-- Stream / Lambda / Predicados / Optional
+
+
+#Cap11 - Datas
+
+-- Padrao ISO 8601 e classe Instant
+-- calendar - manipulacao de datas
+
+#Cap12 - Enums Composicao
+
+-- Enums
+
+
+

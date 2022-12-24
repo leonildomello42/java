@@ -1,0 +1,13 @@
+###Cap02###
+
+- compilar via terminal
+	- javac arquivo.java
+	- java 	arquivo.class
+	- java arquivo.java (Para testes java 11+)
+
+- comentarios em java
+- java code conventions
+	- https://www.oracle.com/java/technologies/javase/codeconventions-contents.html
+	- https://google.github.io/styleguide/javaguide.html#s2.1-file-name
+
+

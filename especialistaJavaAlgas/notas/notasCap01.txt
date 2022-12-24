@@ -1,0 +1,26 @@
+###Cap01###
+
+Indices:
+
+- https://www.tiobe.com/tiobe-index/
+- https://www.jetbrains.com/lp/devecosystem-2021/
+- https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/javascript.html
+- JCP - JAVA COMUNIT
+
+- licenca GNU
+- https://www.youtube.com/watch?v=1CsTH9S79qI
+- https://www.oracle.com/java/moved-by-java/timeline/
+
+- plataformas java
+
+	- Jakarta
+		- Jakarta Servlet
+		- Jakarta Persistence (JPA)
+		- Jakarta Bean Validation 
+		- Jakarta Context and Dependency Injection (CDI)
+		- Jakarta RESTful Web Services (JAX-RS)
+		- Jakarta Enterprise Beans (EJB)
+		- Jakarta Persistence (https://www.eclipse.org/eclipselink/ // https://hibernate.org/ // https://openjpa.apache.org/ // https://jakarta.ee/)	
+
+- JVM (JRE// JDK)
+- Distribuicoes - adoptium  (sdk install java 17.0.2-tem - https://adoptium.net/)
