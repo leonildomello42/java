@@ -7,8 +7,9 @@ public abstract class Piece {
 
     public Piece(Board board) {
         this.board = board;
-        this.position = null;
+        position = null;
     }
+
     protected Board getBoard() {
         return board;
     }
@@ -30,6 +31,4 @@ public abstract class Piece {
         }
         return false;
     }
-
-
 }
